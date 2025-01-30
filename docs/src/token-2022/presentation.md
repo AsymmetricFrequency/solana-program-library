@@ -378,3 +378,7 @@ No problem, we're done, here are your links:
 - Confidential transfers: https://github.com/solana-labs/solana-program-library/blob/master/token/zk-token-protocol-paper/part1.pdf
 
 Thanks for listening!
+
+
+
+Could we use confidentials transations now ? 
